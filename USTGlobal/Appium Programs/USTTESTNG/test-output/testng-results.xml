@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34664" started-at="2020-07-25T19:32:44 IST" finished-at="2020-07-25T19:33:19 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34664" started-at="2020-07-25T19:32:44 IST" finished-at="2020-07-25T19:33:19 IST">
+      <class name="FaceBookTC1">
+        <test-method status="PASS" signature="FACEBOOKTC1()[pri:0, instance:FaceBookTC1@eb21112]" name="FACEBOOKTC1" duration-ms="16068" started-at="2020-07-25T19:32:57 IST" finished-at="2020-07-25T19:33:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FACEBOOKTC1 -->
+      </class> <!-- FaceBookTC1 -->
+      <class name="GoogleTC1">
+        <test-method status="PASS" signature="GOOGLETC001()[pri:0, instance:GoogleTC1@2eda0940]" name="GOOGLETC001" duration-ms="5638" started-at="2020-07-25T19:33:13 IST" finished-at="2020-07-25T19:33:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLETC001 -->
+      </class> <!-- GoogleTC1 -->
+      <class name="MakeMyTripTC1">
+        <test-method status="PASS" signature="MAKEMYTRIPTC001()[pri:0, instance:MakeMyTripTC1@43a0cee9]" name="MAKEMYTRIPTC001" duration-ms="12893" started-at="2020-07-25T19:32:44 IST" finished-at="2020-07-25T19:32:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MAKEMYTRIPTC001 -->
+      </class> <!-- MakeMyTripTC1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

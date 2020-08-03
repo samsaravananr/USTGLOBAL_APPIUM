@@ -1,0 +1,79 @@
+APPIUM INSTALLATION THROUGH NODE MODULE
+------------------------------------------------------
+1. DOWNLOAD AND INSTALL NODE module
+2. Set Environmental Variables 
+	NODE_HOME : C:\Program Files\nodejs
+	path : C:\Program Files\nodejs\node_modules\npm\bin
+3. Install Appium through node.js
+	npm install -g appium
+	npm uninstall -g appium
+
+------------------------------------------------------
+
+1. Create maven Project
+2. Add the dependencies - Appium Java Client, Selenium Server, TestNG
+3. Add Java target properties in pom.xml file
+4. Create Base Class under src/main/java folder
+4.1 Create Simple Script to test generic ecommerce app
+5. Create MainTC under src/test/java folder
+	1. Create a simple script that will open general store app
+	2. LOGIN PAGE - Select country, enter name, select gender, click login
+	3. PRODUCT PAGE - Click addtocart for the product that has text as Star, select next product
+	   Click on button cart
+	4. CART PAGE - Capture and print Product 1, Product 2 and Total values
+	5. Close the App.
+6. Creating Properties file and reading the data from the properties file (under src/main/java)
+7. Create Scroll Method
+8. Create POM pattern of Repository
+9. Convert the project to TestNG
+10. RUN
+
+APPIUM + MAVEN + TESTNG + DesiredCapablities from Properties file.
+START AND STOP APPIUM SERVER programmatically
+
+
+11. ADD STARTSERVER METHOD in BASE CLASS (ECOMMERCE)
+12. ADD STARTSERVER METHOD in BASE CLASS (YOUTUBE)
+13. ADD THE FOLLOWING DEPENDECIES TO POM.xml
+
+	SLF4J Simple Binding
+	SLF4J API Module
+	Apache Commons Lang
+	Apache Commons IO
+	Apache Commons Validator
+
+14. Call the startserver method in MainTCEcommerce and MainTCEcommerce
+15. Call the service.stop method in MainTCEcommerce and MainTCEcommerce at the end
+16. Create Batch file that has emulator commands
+17. Call the startemulator method in the base class 
+18. Add the Listeners (ITestListener)
+19. Add Surefire Plugin to POM.xml
+20. Create Extent Reports and Add the Listeners to TestNG.xml
+21. Execute POM.XML
+22. Integrate Local Appium Project with Jenkins
+23. Execute Local Appium Project from Jenkins
+23. Upload Project to GitHUB
+24. Set up execution parameters in Jenkins 
+25. Integrate GITHUB Appium Project with Jenkins
+23. Execute GITHUB Appium Project from Jenkins with Parameters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+

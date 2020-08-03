@@ -1,0 +1,1 @@
+cd C:\Users\SARAVANAN R\AppData\Local\Android\Sdk\tools\bin && uiautomatorviewer.bat

@@ -1,0 +1,36 @@
+STEP 1 : Download and Install JDK
+STEP 2 : SET up JAVA_HOME
+STEP 3 : SET up path
+
+STEP 4 : Download and Install Eclipse
+STEP 5 : Create a simple program on java and see if its working
+STEP 6 : Download Selenium Server Jar
+STEP 7 : Create a simple Selenium Script to open google.com and print the title of it
+
+STEP 8 : Download Android Studio and Install
+STEP 9 : Create ANDROID_HOME Variable (C:\Users\SARAVANAN R\AppData\Local\Android\Sdk)
+STEP 10 : 
+		1. C:\Users\SARAVANAN R\AppData\Local\Android\Sdk\tools\bin
+		2. C:\Users\SARAVANAN R\AppData\Local\Android\Sdk\tools
+		3. C:\Users\SARAVANAN R\AppData\Local\Android\Sdk\platform-tools
+
+STEP 11 : Open Android Studio and check if we can create our own emulator to test our 	  application
+
+STEP 12 : Download and install Appium tool
+
+		1. OS (Windows)
+		2. Appium Server.    
+		3. Appium Client Libraries 
+
+STEP 13 : OPEN EMULATOR THROUGH BATCH FILE
+		
+STEP 14 : INSTALLED and OPENED THE SAMPLE APPLICATION THROUGH APPIUM TOOL
+
+
+
+
+	
+
+
+		
+

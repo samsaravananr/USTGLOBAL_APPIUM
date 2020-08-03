@@ -1,0 +1,7 @@
+git config --global user.name "samsaravananr"
+git config --global user.email "samsaravananr@gmail.com"
+git Init
+git add *
+git commit -m "first commit"
+git remote add origin https://github.com/samsaravananr/APPIUM_USTGlobal.git
+git push -u origin master
